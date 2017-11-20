@@ -1,0 +1,7 @@
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\bin\Debug\AnimalsArray.exe.config
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\bin\Debug\AnimalsArray.exe
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\bin\Debug\AnimalsArray.pdb
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\obj\Debug\AnimalsArray.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\obj\Debug\AnimalsArray.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\obj\Debug\AnimalsArray.exe
+C:\Users\dorin\source\repos\AnimalsArray\AnimalsArray\obj\Debug\AnimalsArray.pdb

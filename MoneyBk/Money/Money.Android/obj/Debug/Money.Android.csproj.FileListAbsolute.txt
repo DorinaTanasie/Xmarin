@@ -1,0 +1,274 @@
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Money.Android.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Money.Android.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\com.companyname.Money.apk
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\com.companyname.Money-Signed.apk
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Money.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLite-net.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Money.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLite-net.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\SQLite-net.xml
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\Money.Android.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\Money.Android.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\Money.Android.dll
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\Money.Android.pdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\bin\com.companyname.Money.apk
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\drawable\icon.png
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\values\styles.xml
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\res\drawable\logoicon.png
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\R.cs.flag
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\uploadflags.txt
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Money.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\bin\Debug\Money.Android.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\assets\Money.Android.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\assets\Money.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dorin\source\repos\Money\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Money.Android.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Money.Android.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\com.companyname.Money.apk
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\com.companyname.Money-Signed.apk
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Money.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLite-net.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Money.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLite-net.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\SQLite-net.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\Money.Android.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\Money.Android.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\Money.Android.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\Money.Android.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\android\bin\com.companyname.Money.apk
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable\icon.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\values\styles.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable\logoicon.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable\account.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable\home.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable\records.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\R.cs.flag
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\uploadflags.txt
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Remotion.Linq.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Interactive.Async.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\Remotion.Linq.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Interactive.Async.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\res\drawable\registericon.png
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Money.Android.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Money.Android.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\com.companyname.Money.apk
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\com.companyname.Money-Signed.apk
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Money.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Remotion.Linq.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLite-net.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Interactive.Async.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Money.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Remotion.Linq.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLite-net.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\SQLite-net.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Interactive.Async.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\Money.Android.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\Money.Android.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\Money.Android.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\Money.Android.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\bin\com.companyname.Money.apk
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable\icon.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\values\styles.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable\logoicon.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable\account.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable\home.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable\records.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\res\drawable\registericon.png
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\R.cs.flag
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\uploadflags.txt
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Money.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\bin\Debug\Money.Android.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\assets\Money.Android.dll.mdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money.Android\obj\Debug\android\assets\Money.dll.mdb

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Money.View.DetailView.RegisterUser">
+
+
+    <StackLayout x:Name="MainStack" VerticalOptions="FillAndExpand" >
+        <StackLayout x:Name="HeaderStack">
+            <Image x:Name="LogoIcon" Source="registerIcon.png" Margin="0,40,0,0"></Image>
+        </StackLayout>
+        <StackLayout x:Name="RegisterEntryStack" VerticalOptions="StartAndExpand">
+            <ScrollView
+            BindingContext="{Binding NewCustomer}">
+                <StackLayout
+                Padding="10">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label x:Name="lbl_username"
+                        Grid.Column="0"
+                        Grid.Row="0"
+                        Text="Username:"
+                        VerticalOptions="Center">
+                        </Label>
+                        <Entry x:Name="entry_Username"
+                        Grid.Column="1"
+                        Grid.Row="0"
+                        Placeholder="Username"
+                        Text="{Binding username, Mode=TwoWay}">
+                        </Entry>
+
+                        <Label x:Name="lbl_Email"
+                        Grid.Column="0"
+                        Grid.Row="1"
+                        Text="Email"
+                        VerticalOptions="Center">
+                        </Label>
+                        <Entry x:Name="entry_Email"
+                        Grid.Column="1"
+                        Grid.Row="1"
+                        Placeholder="Email"
+                        Text="{Binding email, Mode=TwoWay}">
+                        </Entry>
+
+                        
+
+                        <Label x:Name="lbl_passwoed"
+                        Grid.Column="0"
+                        Grid.Row="2"
+                        Text="Password:"
+                        VerticalOptions="Center">
+                        </Label>
+                        <Entry x:Name="entry_Password"
+                        Grid.Column="1"
+                        Grid.Row="2"
+                        IsPassword="true"
+                        Placeholder="Password"
+                        Text="{Binding pasword, Mode=TwoWay}">
+                        </Entry>
+
+                        <Label x:Name="lbl_ConfPassword"
+                        Grid.Column="0"
+                        Grid.Row="3"
+                        Text="Confirm:"
+                        VerticalOptions="Center">
+                        </Label>
+                        <Entry x:Name="entry_ConfirmPassword"
+                        Grid.Column="1"
+                        Grid.Row="3"
+                        IsPassword="true"
+                        Placeholder="Confirm Password"
+                        Text="{Binding Confirm, Mode=TwoWay}">
+                        </Entry>
+                    </Grid>
+                   
+                    <Button x:Name="btn_register"
+                    BorderRadius="23"
+                    FontAttributes="Bold"
+                    HeightRequest="46"
+                    Margin="50,0"
+                    Text="Save"
+                    TextColor="White"
+                    VerticalOptions="EndAndExpand"  
+                            Clicked="SaveNewUser">
+                     
+                    </Button>
+                </StackLayout>
+            </ScrollView>
+
+
+
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Money.View.Meniu.MasterDetail"
+             xmlns:pages="clr-namespace:Money.View.Meniu"
+             xmlns:detaildiew="clr-namespace:Money.View.DetailView">
+  <MasterDetailPage.Master>
+    <pages:MasterDetailMaster x:Name="MasterPage" />
+  </MasterDetailPage.Master>
+  <MasterDetailPage.Detail>
+    <NavigationPage>
+      <x:Arguments>
+                <detaildiew:InfoScreen1 />
+            </x:Arguments>
+    </NavigationPage>
+  </MasterDetailPage.Detail>
+</MasterDetailPage>

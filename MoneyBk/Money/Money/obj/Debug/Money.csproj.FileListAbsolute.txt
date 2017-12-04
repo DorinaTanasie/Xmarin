@@ -1,0 +1,84 @@
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Money.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Money.pdb
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\SQLite-net.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\SQLite-net.pdb
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\SQLite-net.xml
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dorin\source\repos\Money\Money\Money\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.MainPage.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.App.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.View.DetailView.InfoScreen1.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.View.PageLogin.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.View.Meniu.MasterPage.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.View.Meniu.MasterDetail.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.View.DetailView.InfoScreen2.xaml.g.cs
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.dll
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.pdb
+C:\Users\dorin\source\repos\Money\Money\Money\obj\Debug\Money.View.Meniu.Deshboard.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Money.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Money.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\SQLite-net.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\SQLite-net.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\SQLite-net.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.MainPage.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.App.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.View.DetailView.InfoScreen1.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.View.PageLogin.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.View.DetailView.InfoScreen2.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.View.Meniu.MasterDetail.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.View.Meniu.MasterDetailMaster.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.dll
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.pdb
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.View.DetailView.RegisterUser.xaml.g.cs
+C:\Users\dorin\source\repos\Money - Copy (3)\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Money.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Money.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\SQLite-net.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\SQLite-net.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\SQLite-net.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.MainPage.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.App.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.View.DetailView.InfoScreen1.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.View.PageLogin.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.View.DetailView.InfoScreen2.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.View.Meniu.MasterDetail.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.View.Meniu.MasterDetailMaster.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.View.DetailView.RegisterUser.xaml.g.cs
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.dll
+C:\Users\dorin\source\repos\MoneyBk\Money\Money\obj\Debug\Money.pdb

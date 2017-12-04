@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Money.View.PageLogin">
+    <StackLayout x:Name="MasterLAyout" VerticalOptions="FillAndExpand">
+        <?We use diferent layout for logo thats way is need to add two layout?>
+        <StackLayout x:Name="LogoStack">
+            <Image x:Name="LogoIcon" Source="LogoIcon.png" Margin="0,40,0,0"></Image>
+            <?Ue use 4 inch for logo?>
+
+
+
+        </StackLayout>
+        <StackLayout x:Name="LoginEntryStack" VerticalOptions="StartAndExpand">
+            <StackLayout.Padding>
+                <OnIdiom x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
+                    <OnIdiom.Tablet>140,150,140,0</OnIdiom.Tablet>
+
+                </OnIdiom>
+
+
+            </StackLayout.Padding>
+            <ActivityIndicator  x:Name="ActivitySpiner" Color="Red" IsRunning="True">
+
+
+            </ActivityIndicator>
+
+            <Label x:Name="lbl_username" Text="Username"/>
+            <Entry x:Name="entry_username" Placeholder="Username"></Entry>
+            <Label x:Name="lbl_pasword" Text="Pasword"/>
+            <Entry x:Name="entry_pasword" Placeholder="Pasword"></Entry>
+            <Button x:Name="btn_singIn" Text="Sing In" Clicked="SingInProcedure"></Button>
+            <Button x:Name="btn_Register" Text="New User" Clicked="NewUser"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
